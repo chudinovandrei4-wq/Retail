@@ -148,3 +148,5 @@ Philosophy: This strategy is published within the philosophy of Virtual IQ Bio, 
 License: In accordance with this philosophy, I irrevocably renounce any intellectual rights to this strategy. It is an open architecture and can be freely copied, modified and implemented by anyone, anywhere and for any purpose, without any royalties or permissions.
 
 Only request: In case of successful implementation and positive results, we ask you to provide a public link to this source of the idea to inspire others to use open innovations.
+This channel showcases open-architecture products within the "Virtual IQ Bio" ecosystem. All products integrate modern technologies with ancient ones—some potentially thousands of years old.
+https://t.me/Virtual_IQ_Bio
